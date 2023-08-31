@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   # pin versions
   s.add_dependency 'dry-container', '0.9.0'
   s.add_dependency 'dry-core', '~> 1.0'
-  s.add_dependency 'dry-schema', '~> 1.18'
+  s.add_dependency 'dry-schema', '~> 1.8'
 
   s.add_development_dependency 'rdoc'
   s.add_development_dependency 'theforeman-rubocop', '~> 0.1.2'
